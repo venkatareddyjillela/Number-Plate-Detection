@@ -1,0 +1,1 @@
+heroku run bash -a app.py
