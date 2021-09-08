@@ -57,7 +57,7 @@ editdistance==0.5.3
 efficientnet==1.0.0
 entrypoints==0.3
 essential-generators==1.0
-face-recognition-models==0.3.0
+
 filelock==3.0.12
 flake8==3.9.2
 flashtext==2.7
