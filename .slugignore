@@ -1,1 +1,3 @@
-
+ heroku repo:gc -a appname
+ heroku repo:purge_cache -a appname
+ git push heroku-prod master
